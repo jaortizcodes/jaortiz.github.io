@@ -101,13 +101,13 @@ const featuredProjects = [
   },
 ];
 
-const clientSites = [
-  "CENTURY 21",
-  "EAFP.AT",
-  "CAMBRIDGEBICYCLE.COM",
-  "CLOVR.COM",
-  "SENIORCAREOFSACRAMENTO.COM",
-];
+// const clientSites = [
+//   "CENTURY 21",
+//   "EAFP.AT",
+//   "CAMBRIDGEBICYCLE.COM",
+//   "CLOVR.COM",
+//   "SENIORCAREOFSACRAMENTO.COM",
+// ];
 
 const services = [
   {
