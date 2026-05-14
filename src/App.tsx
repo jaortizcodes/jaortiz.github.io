@@ -262,14 +262,14 @@ function App() {
         </div>
       </section>
 
-      <section className="section client-section">
+      {/* <section className="section client-section">
         <p className="eyebrow">Client website work</p>
         <div className="client-list" aria-label="Client websites">
           {clientSites.map((site) => (
             <span key={site}>{site}</span>
           ))}
         </div>
-      </section>
+      </section> */}
 
       <section className="section contact" id="contact">
         <div>
